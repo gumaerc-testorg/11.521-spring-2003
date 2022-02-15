@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Webtest: Baltimore Neighborhood Indicators Alliance'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/7aa7d4842bf60a45161c1b146ca94381_Webtest_Baltimore.pdf
+file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/7aa7d4842bf60a45161c1b146ca94381_Webtest_Baltimore.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Webtest_Baltimore.pdf
 uid: 7aa7d484-2bf6-0a45-161c-1b146ca94381

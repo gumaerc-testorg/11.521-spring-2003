@@ -3,8 +3,13 @@ content_type: resource
 description: 'Grouping Zoning Applicants via Lookup
 
   Tables'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2fc0f978715038615a9fd6ca4da22ef8_lookup.pdf
+file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2fc0f978715038615a9fd6ca4da22ef8_lookup.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: lookup.pdf
 uid: 2fc0f978-7150-3861-5a9f-d6ca4da22ef8

@@ -3,8 +3,13 @@ content_type: resource
 description: 'Proposed RGO District.
 
   Map of the Reviviendo Gateway Overlay (RGO) District'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2e09cdb7ed12ee1ca4d274d4e661714d_zoningmap.pdf
+file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2e09cdb7ed12ee1ca4d274d4e661714d_zoningmap.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: zoningmap.pdf
 uid: 2e09cdb7-ed12-ee1c-a4d2-74d4e661714d

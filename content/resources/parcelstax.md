@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'The "Parcels" Database: Tax'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/827cc573e8466d7d5a86940300a1d85f_parcelstax.pdf
+file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/827cc573e8466d7d5a86940300a1d85f_parcelstax.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: parcelstax.pdf
 uid: 827cc573-e846-6d7d-5a86-940300a1d85f

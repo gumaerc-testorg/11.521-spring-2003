@@ -3,8 +3,13 @@ content_type: resource
 description: 'Database Design--from E-R Diagram to
 
   SQL Statement'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/ddf82a6c39c15365be9fcab888dac312_lect9.pdf
+file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/ddf82a6c39c15365be9fcab888dac312_lect9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect9.pdf
 uid: ddf82a6c-39c1-5365-be9f-cab888dac312

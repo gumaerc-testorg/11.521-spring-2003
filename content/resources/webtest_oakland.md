@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Webtest: Urban Strategies Council''s Oaktown Database'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/8900fdceba8d9596a1d88e80a704601e_Webtest_Oakland.pdf
+file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/8900fdceba8d9596a1d88e80a704601e_Webtest_Oakland.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Webtest_Oakland.pdf
 uid: 8900fdce-ba8d-9596-a1d8-8e80a704601e
