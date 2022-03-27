@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: correlated_updates.pdf
 uid: 6869d346-c142-144a-8f55-ec67b131a57d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: referential_integrity.pdf
 uid: c0977d4a-ad5c-6530-f345-8b7c3aaef67f

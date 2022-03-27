@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: 1980census.pdf
 uid: 4570eecb-07c1-a4a4-b9f1-7dc574906376

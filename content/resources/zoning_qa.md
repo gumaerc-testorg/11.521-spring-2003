@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 33df897f-4639-c5d6-7587-49e09fa048b1
 resourcetype: Document
 title: zoning_QA.pdf
 uid: b1f35bce-34d8-4120-9474-e862d3103e57

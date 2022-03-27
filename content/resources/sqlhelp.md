@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: sqlhelp.pdf
 uid: f463243c-642c-bc11-ee38-1781cf79b34c

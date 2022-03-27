@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 33df897f-4639-c5d6-7587-49e09fa048b1
 resourcetype: Document
 title: zoning_process_timel.pdf
 uid: fa1564fc-2d2b-72af-321c-80ce5a6c4567

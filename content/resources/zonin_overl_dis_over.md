@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 33df897f-4639-c5d6-7587-49e09fa048b1
 resourcetype: Document
 title: zonin_overl_dis_over.pdf
 uid: d5d86ca3-cf33-0eb7-def5-f7df88e3500d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f4026de9-2fa5-b456-b93b-b5df5d47745e
 resourcetype: Document
 title: lect9insertsql.pdf
 uid: f52c2b16-f3d1-baad-759f-5426685e8fdc

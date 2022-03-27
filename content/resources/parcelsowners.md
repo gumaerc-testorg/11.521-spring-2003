@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: parcelsowners.pdf
 uid: 6d6561c3-d0a8-7836-feb0-12913d108f6d

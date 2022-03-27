@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 33df897f-4639-c5d6-7587-49e09fa048b1
 resourcetype: Document
 title: zoning_extract.pdf
 uid: 2ce8e6ce-1e82-07b8-bb50-63531c02afc5

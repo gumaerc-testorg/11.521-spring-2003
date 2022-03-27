@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: parcelsschema.pdf
 uid: 06bc9b67-44fa-c2c5-f44e-5e5f19ec31dc

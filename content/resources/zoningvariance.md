@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 87c407d0-3723-a739-8b34-f71fccd3a448
 resourcetype: Document
 title: zoningvariance.pdf
 uid: 33c8bbad-9dfe-f986-b8d6-ec8fb4b31d55
