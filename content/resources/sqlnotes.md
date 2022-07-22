@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: SQL*Plus Formatting and Documentation Notes
-file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/06819552b8233699d910e860f530f693_sqlnotes.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/06819552b8233699d910e860f530f693_sqlnotes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: sqlnotes.pdf
 uid: 06819552-b823-3699-d910-e860f530f693
 ---
+SQL*Plus Formatting and Documentation Notes

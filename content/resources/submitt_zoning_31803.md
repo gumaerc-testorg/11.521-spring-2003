@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Submitted Zoning Description
-file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/db5b4ab3e6506a0e12e280bba18e6092_Submitt_Zoning_31803.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/db5b4ab3e6506a0e12e280bba18e6092_Submitt_Zoning_31803.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: Submitt_Zoning_31803.pdf
 uid: db5b4ab3-e650-6a0e-12e2-80bba18e6092
 ---
+Submitted Zoning Description

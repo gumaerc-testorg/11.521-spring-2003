@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Advanced SQL - Subqueries and Complex Joins
-file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/dde1442583c4746d07ca7a12bc0f6988_lect4.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/dde1442583c4746d07ca7a12bc0f6988_lect4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: lect4.pdf
 uid: dde14425-83c4-746d-07ca-7a12bc0f6988
 ---
+Advanced SQL - Subqueries and Complex Joins

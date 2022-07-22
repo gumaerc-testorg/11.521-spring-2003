@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6869d346c142144a8f55ec67b131a57d_correlated_updates.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6869d346c142144a8f55ec67b131a57d_correlated_updates.pdf
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

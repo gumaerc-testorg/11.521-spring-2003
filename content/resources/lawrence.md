@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The Lawrence Project: An image of downtown Lawrence, MA.'
-file: /media/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/78ded4ecac3cef31148d939478fa7258_Lawrence.jpg
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/78ded4ecac3cef31148d939478fa7258_Lawrence.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -17,3 +18,4 @@ resourcetype: Image
 title: Lawrence.jpg
 uid: 78ded4ec-ac3c-ef31-148d-939478fa7258
 ---
+The Lawrence Project: An image of downtown Lawrence, MA.
