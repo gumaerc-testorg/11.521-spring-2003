@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 5: PowerPoint Slides'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/882d8e7a20b414155a223340365a6140_lect5ppt.pdf
+file_size: 146202
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

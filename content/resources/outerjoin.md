@@ -2,6 +2,7 @@
 content_type: resource
 description: '''OUTER JOIN'' Class Notes'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/e3d1ec4afa5569b40125a843e833b89e_outerjoin.pdf
+file_size: 90017
 file_type: application/pdf
 learning_resource_types:
 - Tools

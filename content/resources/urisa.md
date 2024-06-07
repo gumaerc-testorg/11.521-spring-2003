@@ -3,6 +3,7 @@ content_type: resource
 description: Script & Sample Queries to Create & Manipulate the URISA Proceedings
   Database in ORACLE
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/0d2ca17459f98b57ad1d81638b0a97f4_urisa.pdf
+file_size: 87481
 file_type: application/pdf
 learning_resource_types:
 - Tools
