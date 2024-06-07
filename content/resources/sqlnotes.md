@@ -2,6 +2,7 @@
 content_type: resource
 description: SQL*Plus Formatting and Documentation Notes
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/06819552b8233699d910e860f530f693_sqlnotes.pdf
+file_size: 100000
 file_type: application/pdf
 learning_resource_types:
 - Tools

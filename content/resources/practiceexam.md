@@ -2,6 +2,7 @@
 content_type: resource
 description: PRACTICE Examination
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/0f10b84ea53073de177f24dd5e15db48_practiceexam.pdf
+file_size: 227135
 file_type: application/pdf
 learning_resource_types:
 - Exams
