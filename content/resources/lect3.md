@@ -2,6 +2,7 @@
 content_type: resource
 description: Handling One-to-Many Relations - Grouping and Aggregation
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/3bc0329426d015192f34de12308fe651_lect3.pdf
+file_size: 275344
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

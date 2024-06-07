@@ -2,6 +2,7 @@
 content_type: resource
 description: Distributed Access to Parcel-Level City Databases
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/93577f87a3199e27f54e21adf095c70c_lect5.pdf
+file_size: 94677
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

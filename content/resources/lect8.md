@@ -2,6 +2,7 @@
 content_type: resource
 description: Querying Oracle from Client Applications
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/3f7b6fe427a4672929d1ed78f4b63932_lect8.pdf
+file_size: 94685
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

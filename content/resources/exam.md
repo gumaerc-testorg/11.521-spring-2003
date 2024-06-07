@@ -2,6 +2,7 @@
 content_type: resource
 description: Examination
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/3b7ddc1259da185c91102055789607d2_exam.pdf
+file_size: 157448
 file_type: application/pdf
 learning_resource_types:
 - Exams
