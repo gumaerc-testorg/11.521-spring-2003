@@ -149,7 +149,7 @@ Project: Implementing a Neighborhood Information System
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [http://www.cardi.cornell.edu/](http://www.cardi.cornell.edu/) 
+- [http://www.cardi.cornell.edu/](https://cals.cornell.edu/global-development/our-work/our-initiatives/community-and-regional-development-institute-cardi-legacy) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
