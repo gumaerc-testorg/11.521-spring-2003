@@ -1,62 +1,60 @@
 ---
 content_type: page
-description: ''
+description: this page presents information on the final project for 11.521.
 draft: false
 title: Projects
 uid: 33df897f-4639-c5d6-7587-49e09fa048b1
 ---
-Please note: all associated databases for the course are in the {{% resource_link 87c407d0-3723-a739-8b34-f71fccd3a448 "tools" %}} section.
+Please note: all associated databases for the course are in the {{% resource_link "87c407d0-3723-a739-8b34-f71fccd3a448" "tools" %}} section.
 
 This section is the entire final project for the course.
 
 ## The Lawrence Project
 
-{{< resource 78ded4ec-ac3c-ef31-148d-939478fa7258 >}}
+{{< resource uuid="78ded4ec-ac3c-ef31-148d-939478fa7258" >}}
 
 An image of downtown Lawrence, MA.
 
 **Consultant:**
 
-Robert Cheetham, President of Azavea, Inc.   
+Robert Cheetham, President of Azavea, Inc.    
 URL: [http://www.azavea.com/](http://www.azavea.com/)
 
 ## Implementing a Neighborhood Information System
 
-[Introduction](#Introduction)   
-[Objectives](#Objectives)   
-[Project Scope](#Project_Scope)   
-[Data](#Data)   
-[Products](#Products)   
+[Introduction](#Introduction)    
+[Objectives](#Objectives)    
+[Project Scope](#Project_Scope)    
+[Data](#Data)    
+[Products](#Products)    
 [Schedule](#Schedule)
 
 ## {{< anchor "Introduction" >}}{{< /anchor >}}Introduction
 
-Lawrence Community Works, Inc. is a nonprofit **community development corporation** dedicated to the sustained revitalization of Lawrence, a former mill city that is now home to large immigrant and Latino population. LCW's mission centers on **organizing and empowering neighborhood residents**, producing safe and decent affordable housing and creating programs and facilities that meet the educational and economic development needs of neighborhood families.   
-    
-    
+Lawrence Community Works, Inc. is a nonprofit **community development corporation** dedicated to the sustained revitalization of Lawrence, a former mill city that is now home to large immigrant and Latino population. LCW's mission centers on **organizing and empowering neighborhood residents**, producing safe and decent affordable housing and creating programs and facilities that meet the educational and economic development needs of neighborhood families.    
+       
 **History**
 
-LCW (formerly Lawrence Planning & Neighborhood Development Corporation) was founded in 1986 by affordable housing activists to create a 170 unit co-op in the City's North Common neighborhood. While this initial project was successful, by the late 1990s the CDC's vision and productivity had stalled. The Board of Directors, through an intensive community organizing and planning effort guided by members of the current management team, set its sights on a more ambitious plan for the neighborhood, and spearheaded a leadership change to reinvigorate the CDC. At that time, the organization had been defunded by the City and State, had one full time staff person, an operating budget of $60,000, and no projects in development.   
-    
-    
+LCW (formerly Lawrence Planning & Neighborhood Development Corporation) was founded in 1986 by affordable housing activists to create a 170 unit co-op in the City's North Common neighborhood. While this initial project was successful, by the late 1990s the CDC's vision and productivity had stalled. The Board of Directors, through an intensive community organizing and planning effort guided by members of the current management team, set its sights on a more ambitious plan for the neighborhood, and spearheaded a leadership change to reinvigorate the CDC. At that time, the organization had been defunded by the City and State, had one full time staff person, an operating budget of $60,000, and no projects in development.    
+     
 **Achievements**
 
-Since its rebirth in July of 1999, LCW (the only active CDC in the City) has made a tremendous turnaround and is continually evolving its capacity to effectively tackle community revitalization in the notoriously challenging context of Lawrence. Our progress and achievements on this front include:   
-Organizational overhaul: Created new accounting, communications, membership and personnel systems. Attracted a talented staff of 26 including: 18 full time employees, four part time employees, and four long-term consultants (two full time and two part time), 80% of whom are bilingual. Together, this staff brings over sixty-five years of experience in community development to LCW.   
-    
-**Community organizing:** Created a membership structure, and built a membership of 150 (up from 0 in 1999), as well as five structures for member participation in organizational decision making. Helped the North Common Neighborhood Association (NCNA) to establish a Board of Directors and develop processes for surfacing and representing neighborhood priorities, as well as participating in LCW projects.   
-    
-**Neighborhood Planning:** Conducted a comprehensive organizing and planning campaign in the North Common that involved over 300 residents in determining the neighborhood priorities built into Project Reviviendo, our comprehensive revitalization effort. Created and facilitated ongoing community planning through the Reviviendo Planning Group (RPG), a 22-member body representing neighborhood residents, businesses and institutions and working on a range of development issues, launched the Community Design Center, which provides space, technology and staff to facilitate neighborhood planning activities.   
-    
-**Budget and Finance:** Rose over $3 million of investment in community revitalization in two and a half years, including designation by FleetBoston as one of the four sites in New England (and the only one in Massachusetts) to host their Community Renaissance Initiative. Increased our operating budget from $60,000 to $534,000 in four years. Created strong working relationships with major stakeholders, including the City of Lawrence, which has committed over $1 million in HOME and CDBG funds to LCW revitalization projects in the North Common, the Commonwealth, which has committed $145,000 in CEED funds and $320,000 in State HOME funds to LCW, the City Council, on which we have a 5 member majority supporting our efforts, Lawrence General Hospital, Merrimack College, local mill owners, local foundations, and other local nonprofits and businesses.   
-    
-**Real Estate Development:** Developed and sold the first two duplex homes of our Summer Street Project, a $1.2 million effort which will convert every vacant lot on one block at the center of the North Common into affordable homes for low-income first-time homebuyers, affordable rental units and a neighborhood park. Completed design and construction of a playground and new parking lot for our Berkeley Place Apartments. Acquired four abandoned multi-unit residences for renovation as affordable rental housing.   
-    
-**Youth Programming:** Launched the Young Professionals Initiative serving over 67 young people with top-notch creative, skill-building, and career-oriented programs, through our Young Architects, Young Webmasters, Young Investors, Skate Kids, and Berkeley Place Afterschool Programs. Additional programs in fashion/interior design, video and music production, and theater-partly envisioned, planned, and driven by youth themselves-are in development.   
-    
-**Family Learning:** Developed two individual development account programs (IDA) focused on asset-building strategies of matched savings and financial literacy education for youth and adults. Launched a "Training of Trainers" for older neighborhood residents interested in learning web design and teaching Young Web Masters. Gained site control of abandoned St. Laurence O'Toole church site for redevelopment into the Our House Family Learning Center, working in ongoing collaboration with hundreds of former parishioners and current residents to design both the building and the programs. Formalized partnership with Merrimack College to provide academic enrichment services and scholarships for residents.   
-    
-    
+Since its rebirth in July of 1999, LCW (the only active CDC in the City) has made a tremendous turnaround and is continually evolving its capacity to effectively tackle community revitalization in the notoriously challenging context of Lawrence. Our progress and achievements on this front include:    
+Organizational overhaul: Created new accounting, communications, membership and personnel systems. Attracted a talented staff of 26 including: 18 full time employees, four part time employees, and four long-term consultants (two full time and two part time), 80% of whom are bilingual. Together, this staff brings over sixty-five years of experience in community development to LCW.    
+     
+**Community organizing:** Created a membership structure, and built a membership of 150 (up from 0 in 1999), as well as five structures for member participation in organizational decision making. Helped the North Common Neighborhood Association (NCNA) to establish a Board of Directors and develop processes for surfacing and representing neighborhood priorities, as well as participating in LCW projects.    
+     
+**Neighborhood Planning:** Conducted a comprehensive organizing and planning campaign in the North Common that involved over 300 residents in determining the neighborhood priorities built into Project Reviviendo, our comprehensive revitalization effort. Created and facilitated ongoing community planning through the Reviviendo Planning Group (RPG), a 22-member body representing neighborhood residents, businesses and institutions and working on a range of development issues, launched the Community Design Center, which provides space, technology and staff to facilitate neighborhood planning activities.    
+     
+**Budget and Finance:** Rose over $3 million of investment in community revitalization in two and a half years, including designation by FleetBoston as one of the four sites in New England (and the only one in Massachusetts) to host their Community Renaissance Initiative. Increased our operating budget from $60,000 to $534,000 in four years. Created strong working relationships with major stakeholders, including the City of Lawrence, which has committed over $1 million in HOME and CDBG funds to LCW revitalization projects in the North Common, the Commonwealth, which has committed $145,000 in CEED funds and $320,000 in State HOME funds to LCW, the City Council, on which we have a 5 member majority supporting our efforts, Lawrence General Hospital, Merrimack College, local mill owners, local foundations, and other local nonprofits and businesses.    
+     
+**Real Estate Development:** Developed and sold the first two duplex homes of our Summer Street Project, a $1.2 million effort which will convert every vacant lot on one block at the center of the North Common into affordable homes for low-income first-time homebuyers, affordable rental units and a neighborhood park. Completed design and construction of a playground and new parking lot for our Berkeley Place Apartments. Acquired four abandoned multi-unit residences for renovation as affordable rental housing.    
+     
+**Youth Programming:** Launched the Young Professionals Initiative serving over 67 young people with top-notch creative, skill-building, and career-oriented programs, through our Young Architects, Young Webmasters, Young Investors, Skate Kids, and Berkeley Place Afterschool Programs. Additional programs in fashion/interior design, video and music production, and theater-partly envisioned, planned, and driven by youth themselves-are in development.    
+     
+**Family Learning:** Developed two individual development account programs (IDA) focused on asset-building strategies of matched savings and financial literacy education for youth and adults. Launched a "Training of Trainers" for older neighborhood residents interested in learning web design and teaching Young Web Masters. Gained site control of abandoned St. Laurence O'Toole church site for redevelopment into the Our House Family Learning Center, working in ongoing collaboration with hundreds of former parishioners and current residents to design both the building and the programs. Formalized partnership with Merrimack College to provide academic enrichment services and scholarships for residents.    
+     
+     
 **Challenges Ahead**
 
 Why the proposed project is needed: Lawrence is well-known as one of the Commonwealth's most troubled cities. Its status as the **23rd poorest city in the United States**, with the lowest per-capita income in Massachusetts, contrasts starkly with the booming economy of the surrounding region. Unemployment, while better during the recent economic upturn, consistently hovers at two to three times the state and national rates. As the only substantial source of affordable housing in the Merrimack Valley, Lawrence is home to a sizable low-income population filling the low-wage, low-skill jobs that are the underside of the flourishing regional economy. **Home-ownership figures are around 35% citywide**, half the national rate, and 12% on the **mostly-Latino north side**, where vacant lots and boarded-up buildings bear mute testimony to the arson wave that flamed through the City in the early 1990s. Immigration flows have brought new populations into the City in recent decades, with inevitable ethnic and political tensions arising as a result. Global economic changes have irrevocably altered this once thriving manufacturing center.
@@ -84,34 +82,34 @@ Clearly, Lawrence faces many of the challenges endemic to "third-tier" cities ac
 
 ## {{< anchor "Data" >}}{{< /anchor >}}Data
 
-Here is the list for all the data layers available now:   
-(**data layer list**) ({{% resource_link 8560f39e-f9c6-48b0-dc44-21b8262ca2fb "PDF" %}})
+Here is the list for all the data layers available now:    
+(**data layer list**) ({{% resource_link "8560f39e-f9c6-48b0-dc44-21b8262ca2fb" "PDF" %}})
 
 ## {{< anchor "Products" >}}{{< /anchor >}}Procedure and Products
 
 **Assignment One (Lab 7): A Critical Path**
 
-Meet as a group, and comb through the entire syllabus. Next, establish a protocol for communicating among yourselves and design a "critical path" for the semester. How you will organize your time and coordinate your schedules for project? How will you get to the on-site meetings? When will the two day session with the consultant occur? Designate a project manager, and outline his/her responsibilities. Do other positions need to be designated? For example, who will contact and communicate with the client? Who will contact and communicate with the consultant? Will this person be responsible for managing the consultant's hours?   
+Meet as a group, and comb through the entire syllabus. Next, establish a protocol for communicating among yourselves and design a "critical path" for the semester. How you will organize your time and coordinate your schedules for project? How will you get to the on-site meetings? When will the two day session with the consultant occur? Designate a project manager, and outline his/her responsibilities. Do other positions need to be designated? For example, who will contact and communicate with the client? Who will contact and communicate with the consultant? Will this person be responsible for managing the consultant's hours?    
 Prepare and submit a single document that explicitly addresses these and other relevant organizational issues. This assignment is due in a week and will require a collective effort, so these decisions must be made without delay.
 
 **Assignment Two (Lab 8): A Remote Understanding of Place**
 
 There are two parts to this assignment. One involves the use of ArcView to study the City of Lawrence, while the other relies on the World Wide Web as a tool for learning about neighborhood information systems and the cities they seek to represent. First, we would like each of you to launch ArcView and inventory the spatial data layers for the City of Lawrence that are readily available to you. Next, and as a group, devise a strategy for learning about Lawrence using ArcView. Make at least three different maps and discuss your preliminary findings in a short paper (no more than three pages). Now that you've explored the City of Lawrence from Cambridge, determine when you will physically visit and explore the site. The first site visit must take place within a week.
 
-Second, we would like you to familiarize yourself with and evaluate several web-based neighborhood information systems. We will be looking specifically at The Baltimore Neighborhood Indicators Alliance, Neighborhood Knowledge Los Angeles, The Philadelphia Neighborhood Information System, The Providence Plan, and The Urban Strategies Council's Oaktown Datahouse. Each of you will critically evaluate these systems using:   
+Second, we would like you to familiarize yourself with and evaluate several web-based neighborhood information systems. We will be looking specifically at The Baltimore Neighborhood Indicators Alliance, Neighborhood Knowledge Los Angeles, The Philadelphia Neighborhood Information System, The Providence Plan, and The Urban Strategies Council's Oaktown Datahouse. Each of you will critically evaluate these systems using:    
 a standard **web-test**. (check out the list given below)
 
-- **Baltimore** ({{% resource_link 7aa7d484-2bf6-0a45-161c-1b146ca94381 "PDF" %}})
-- **Los Angeles** ({{% resource_link 75f01d38-2ecb-b0f4-7ae9-48811d3066b9 "PDF" %}})
-- **Oakland** ({{% resource_link 8900fdce-ba8d-9596-a1d8-8e80a704601e "PDF" %}})
-- **Philadelphia** ({{% resource_link bdbf2bdd-1e56-3443-3db1-4c134ba38255 "PDF" %}})
-- **Providence** ({{% resource_link da0d5de5-8f53-9e7e-377a-af3c873d2365 "PDF" %}})
+- **Baltimore** ({{% resource_link "7aa7d484-2bf6-0a45-161c-1b146ca94381" "PDF" %}})
+- **Los Angeles** ({{% resource_link "75f01d38-2ecb-b0f4-7ae9-48811d3066b9" "PDF" %}})
+- **Oakland** ({{% resource_link "8900fdce-ba8d-9596-a1d8-8e80a704601e" "PDF" %}})
+- **Philadelphia** ({{% resource_link "bdbf2bdd-1e56-3443-3db1-4c134ba38255" "PDF" %}})
+- **Providence** ({{% resource_link "da0d5de5-8f53-9e7e-377a-af3c873d2365" "PDF" %}})
 
 Then, as a group, discuss your findings and submit a brief two-page report summarizing the following: 
 
 - Compare and contrast these systems with respect to mission, audience, content and functionality.
 - What are the most useful and problematic aspects of each site?
-- What specific lessons for Lawrence have you gained from reviewing these sites?   
+- What specific lessons for Lawrence have you gained from reviewing these sites?    
     The individual web-test results and the two-page summary are due in a week.
 
 **The Project**
@@ -152,28 +150,28 @@ Since you've completed an important phase of an ongoing project, it is important
 
 Assignment one requires the formulation of a critical path for this project has been created for you. It is recommended that you use it as a tool to keep the group on track. There are many phases to this project, and falling behind on any one task will prove problematic.
 
-**Additional Informaton:**   
-[City of Lawrence](http://www.cityoflawrence.com/)   
-[Lawrence Community Works, Inc.](http://www.lcworks.org/)   
+**Additional Informaton:**    
+[City of Lawrence](http://www.cityoflawrence.com/)    
+[Lawrence Community Works, Inc.](http://www.lcworks.org/)    
 The Reviviendo Gateway Overlay District
 
-- Map of the Reviviendo Gateway Overlay (RGO) District ({{% resource_link 2e09cdb7-ed12-ee1c-a4d2-74d4e661714d "PDF" %}})
-- Submitted Zoning Description ({{% resource_link db5b4ab3-e650-6a0e-12e2-80bba18e6092 "PDF" %}})
-- Zoning Analysis ({{% resource_link 2ce8e6ce-1e82-07b8-bb50-63531c02afc5 "PDF" %}})
-- Zoning Overlay District Overview ({{% resource_link d5d86ca3-cf33-0eb7-def5-f7df88e3500d "PDF" %}})
-- Zoning Process and Timeline ({{% resource_link fa1564fc-2d2b-72af-321c-80ce5a6c4567 "PDF" %}})
-- Question and Answers about RGO ({{% resource_link b1f35bce-34d8-4120-9474-e862d3103e57 "PDF" %}})
+- Map of the Reviviendo Gateway Overlay (RGO) District ({{% resource_link "2e09cdb7-ed12-ee1c-a4d2-74d4e661714d" "PDF" %}})
+- Submitted Zoning Description ({{% resource_link "db5b4ab3-e650-6a0e-12e2-80bba18e6092" "PDF" %}})
+- Zoning Analysis ({{% resource_link "2ce8e6ce-1e82-07b8-bb50-63531c02afc5" "PDF" %}})
+- Zoning Overlay District Overview ({{% resource_link "d5d86ca3-cf33-0eb7-def5-f7df88e3500d" "PDF" %}})
+- Zoning Process and Timeline ({{% resource_link "fa1564fc-2d2b-72af-321c-80ce5a6c4567" "PDF" %}})
+- Question and Answers about RGO ({{% resource_link "b1f35bce-34d8-4120-9474-e862d3103e57" "PDF" %}})
 
-\*\*Neighborhood Information Systems:   
-\*\*[Philadelphia](http://phennd.org/update/neighborhood-information-system/)   
-[Milwaulkee](https://www.visitmilwaukee.org/neighborhoods/)   
-[Los Angeles](http://maps.latimes.com/neighborhoods/neighborhood/list/)   
-[Baltimore](http://www.bniajfi.org)   
-[Providence](http://www.providenceplanning.org/)   
+\*\*Neighborhood Information Systems:    
+\*\*[Philadelphia](http://phennd.org/update/neighborhood-information-system/)    
+[Milwaulkee](https://www.visitmilwaukee.org/neighborhoods/)    
+[Los Angeles](http://maps.latimes.com/neighborhoods/neighborhood/list/)    
+[Baltimore](http://www.bniajfi.org)    
+[Providence](http://www.providenceplanning.org/)    
 [Oakland](https://www.oaklandca.gov/)
 
-**Community Asset Mapping Projects:**   
-[The Borneo Project](http://borneoproject.org/)   
-[Connecticut Assets Network](http://www.manta.com/c/mmfmng6/connecticut-assets-network)   
-[Decatur Community Partnership](https://www.dcpdecatur.com/)   
+**Community Asset Mapping Projects:**    
+[The Borneo Project](http://borneoproject.org/)    
+[Connecticut Assets Network](http://www.manta.com/c/mmfmng6/connecticut-assets-network)    
+[Decatur Community Partnership](https://www.comminit.com/content/decatur-community-partnership)    
 Montreal
