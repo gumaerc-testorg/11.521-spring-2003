@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Webtest: The Providence Plan'
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/da0d5de58f539e7e377aaf3c873d2365_Webtest_Providence.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/da0d5de58f539e7e377aaf3c873d2365_Webtest_Providence.pdf
 file_size: 155945
 file_type: application/pdf
 learning_resource_types:

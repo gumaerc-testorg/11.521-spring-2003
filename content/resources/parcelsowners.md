@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The "Parcels" Database: Owners'
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6d6561c3d0a87836feb012913d108f6d_parcelsowners.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6d6561c3d0a87836feb012913d108f6d_parcelsowners.pdf
 file_size: 81192
 file_type: application/pdf
 learning_resource_types:
