@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The "Parcels" Database: Switchboard'
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/c5296bde71ab2efab698a875d79cdbe7_parcels.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/c5296bde71ab2efab698a875d79cdbe7_parcels.pdf
 file_size: 72174
 file_type: application/pdf
 learning_resource_types:

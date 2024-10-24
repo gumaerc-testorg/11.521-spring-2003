@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Relational Database Management and Geospatial Data
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/99fe780b6b6efb0d08088a88b99be558_lect2.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/99fe780b6b6efb0d08088a88b99be558_lect2.pdf
 file_size: 317089
 file_type: application/pdf
 learning_resource_types:
