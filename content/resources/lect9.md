@@ -3,7 +3,7 @@ content_type: resource
 description: 'Database Design--from E-R Diagram to
 
   SQL Statement'
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/ddf82a6c39c15365be9fcab888dac312_lect9.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/ddf82a6c39c15365be9fcab888dac312_lect9.pdf
 file_size: 197067
 file_type: application/pdf
 learning_resource_types:
