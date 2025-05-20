@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Webtest: Neigborhood Knowledge Los Angeles'
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/75f01d382ecbb0f47ae948811d3066b9_Webtest_Los_Angeles.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/75f01d382ecbb0f47ae948811d3066b9_Webtest_Los_Angeles.pdf
 file_size: 158663
 file_type: application/pdf
 learning_resource_types:

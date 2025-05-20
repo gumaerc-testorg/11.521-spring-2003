@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 1980 Census Data
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/4570eecb07c1a4a4b9f17dc574906376_1980census.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/4570eecb07c1a4a4b9f17dc574906376_1980census.pdf
 file_size: 75574
 file_type: application/pdf
 learning_resource_types:

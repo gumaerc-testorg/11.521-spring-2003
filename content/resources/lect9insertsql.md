@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Insert SQL
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f52c2b16f3d1baad759f5426685e8fdc_lect9insertsql.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f52c2b16f3d1baad759f5426685e8fdc_lect9insertsql.pdf
 file_size: 46098
 file_type: application/pdf
 learning_resource_types:

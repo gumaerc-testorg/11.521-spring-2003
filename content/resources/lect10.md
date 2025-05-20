@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lab 5: Mapping Boston Zoning Variances'
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6e839872849ac68c88ecfe9dc7a99c02_lect10.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6e839872849ac68c88ecfe9dc7a99c02_lect10.pdf
 file_size: 244179
 file_type: application/pdf
 learning_resource_types:

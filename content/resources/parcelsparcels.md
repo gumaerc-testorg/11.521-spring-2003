@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The "Parcels" Database: Parcels'
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/be470b0eed9324a73782e82083c39b90_parcelsparcels.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/be470b0eed9324a73782e82083c39b90_parcelsparcels.pdf
 file_size: 116797
 file_type: application/pdf
 learning_resource_types:

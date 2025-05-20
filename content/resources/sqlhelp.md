@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Oracle SQL Help
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f463243c642cbc11ee381781cf79b34c_sqlhelp.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f463243c642cbc11ee381781cf79b34c_sqlhelp.pdf
 file_size: 306465
 file_type: application/pdf
 learning_resource_types:

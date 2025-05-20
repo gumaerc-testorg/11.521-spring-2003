@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The Marriage: Planners and Data'
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/5da6dc25a59b985bce321c7d21b94817_lect1LH.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/5da6dc25a59b985bce321c7d21b94817_lect1LH.pdf
 file_size: 118977
 file_type: application/pdf
 learning_resource_types:
