@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab 3: More SQL -- The Zoning Variance Database & Categorization via
   Lookup Tables (Same as Problem set 2)'
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/83e5f886fd7052e9014eea7cc976c364_lab3.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/83e5f886fd7052e9014eea7cc976c364_lab3.pdf
 file_size: 176703
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Beyond The Vector Data Model - Part Two
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/0c6fea2787932d70e6916dc4ea4c1d18_lect13b.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/0c6fea2787932d70e6916dc4ea4c1d18_lect13b.pdf
 file_size: 1930873
 file_type: application/pdf
 learning_resource_types:

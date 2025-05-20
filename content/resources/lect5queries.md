@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: SQL Queries
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6c709491c64ef7c11050fc265d19f2d0_lect5queries.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6c709491c64ef7c11050fc265d19f2d0_lect5queries.pdf
 file_size: 123383
 file_type: application/pdf
 learning_resource_types:
