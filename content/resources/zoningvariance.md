@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Boston Zoning Variance Database
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/33c8bbad9dfef986b8d6ec8fb4b31d55_zoningvariance.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/33c8bbad9dfef986b8d6ec8fb4b31d55_zoningvariance.pdf
 file_size: 286747
 file_type: application/pdf
 learning_resource_types:

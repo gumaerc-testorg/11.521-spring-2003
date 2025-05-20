@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Relational Database Design: A Solution for the Cambridge Fire Department'
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/4dd430183cfe080af503a6f2047ea5b5_lect7b.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/4dd430183cfe080af503a6f2047ea5b5_lect7b.pdf
 file_size: 102167
 file_type: application/pdf
 learning_resource_types:

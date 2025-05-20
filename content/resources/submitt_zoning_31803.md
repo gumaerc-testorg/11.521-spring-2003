@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Submitted Zoning Description
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/db5b4ab3e6506a0e12e280bba18e6092_Submitt_Zoning_31803.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/db5b4ab3e6506a0e12e280bba18e6092_Submitt_Zoning_31803.pdf
 file_size: 99183
 file_type: application/pdf
 learning_resource_types:

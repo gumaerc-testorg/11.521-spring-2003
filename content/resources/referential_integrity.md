@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/c0977d4aad5c6530f3458b7c3aaef67f_referential_integrity.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/c0977d4aad5c6530f3458b7c3aaef67f_referential_integrity.pdf
 file_size: 134293
 file_type: application/pdf
 learning_resource_types:

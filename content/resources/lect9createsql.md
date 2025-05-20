@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Create SQL
-file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/fa795a8cc9ee78ce3edb41d3273a420e_lect9createsql.pdf
+file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/fa795a8cc9ee78ce3edb41d3273a420e_lect9createsql.pdf
 file_size: 42611
 file_type: application/pdf
 learning_resource_types:
