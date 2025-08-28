@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wrap-up of Vector/Raster/3D Modeling
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/698e2cdf90bbae18d762638ea9179882_lect13.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/698e2cdf90bbae18d762638ea9179882_lect13.pdf
 file_size: 89099
 file_type: application/pdf
 learning_resource_types:

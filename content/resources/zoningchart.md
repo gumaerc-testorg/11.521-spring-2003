@@ -3,7 +3,7 @@ content_type: resource
 description: 'Progression of Stages in Efforts to Automate the Review of Zoning
 
   Variances'
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/d517bacda4a01117ea93d611f6bd0ab4_zoningchart.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/d517bacda4a01117ea93d611f6bd0ab4_zoningchart.pdf
 file_size: 75319
 file_type: application/pdf
 learning_resource_types:

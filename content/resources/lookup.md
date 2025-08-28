@@ -3,7 +3,7 @@ content_type: resource
 description: 'Grouping Zoning Applicants via Lookup
 
   Tables'
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2fc0f978715038615a9fd6ca4da22ef8_lookup.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2fc0f978715038615a9fd6ca4da22ef8_lookup.pdf
 file_size: 332917
 file_type: application/pdf
 learning_resource_types:
