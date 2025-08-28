@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Lab 1: Introduction to Oracle and SQL'
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/9d15807415d25c692ec612a61562cbe2_lab1.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/9d15807415d25c692ec612a61562cbe2_lab1.pdf
 file_size: 191850
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

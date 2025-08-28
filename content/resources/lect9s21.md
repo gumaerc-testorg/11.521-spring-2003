@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Schema Version II
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/54beeda817e684b275bf301018ee563a_lect9s21.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/54beeda817e684b275bf301018ee563a_lect9s21.pdf
 file_size: 75926
 file_type: application/pdf
 learning_resource_types:

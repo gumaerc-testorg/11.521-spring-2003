@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Connery Associates
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/d5d86ca3cf330eb7def5f7df88e3500d_zonin_overl_dis_over.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/d5d86ca3cf330eb7def5f7df88e3500d_zonin_overl_dis_over.pdf
 file_size: 96348
 file_type: application/pdf
 learning_resource_types:
