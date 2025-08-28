@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Adding the Z
-file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f80cbde943526aa02a55a98bf6c4afb5_lect13c.pdf
+file: /ol-ocw-studio-app/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f80cbde943526aa02a55a98bf6c4afb5_lect13c.pdf
 file_size: 417856
 file_type: application/pdf
 learning_resource_types:
