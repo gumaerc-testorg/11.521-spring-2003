@@ -18,7 +18,7 @@ An image of downtown Lawrence, MA.
 **Consultant:**
 
 Robert Cheetham, President of Azavea, Inc.    
-URL: [http://www.azavea.com/](http://www.azavea.com/)
+URL: {{% resource_link "bea0c8e4-baff-474b-a042-7f891501d5f3" "http://www.azavea.com/" %}}
 
 ## Implementing a Neighborhood Information System
 
@@ -151,8 +151,8 @@ Since you've completed an important phase of an ongoing project, it is important
 Assignment one requires the formulation of a critical path for this project has been created for you. It is recommended that you use it as a tool to keep the group on track. There are many phases to this project, and falling behind on any one task will prove problematic.
 
 **Additional Informaton:**    
-[City of Lawrence](http://www.cityoflawrence.com/)    
-[Lawrence Community Works, Inc.](http://www.lcworks.org/)    
+{{% resource_link "d15ed770-be86-4301-9c96-c07b27cd5bfc" "City of Lawrence" %}}    
+{{% resource_link "47406dcf-ec9e-4fff-b543-fd3dd544a63d" "Lawrence Community Works, Inc." %}}    
 The Reviviendo Gateway Overlay District
 
 - Map of the Reviviendo Gateway Overlay (RGO) District ({{% resource_link "2e09cdb7-ed12-ee1c-a4d2-74d4e661714d" "PDF" %}})
@@ -163,15 +163,15 @@ The Reviviendo Gateway Overlay District
 - Question and Answers about RGO ({{% resource_link "b1f35bce-34d8-4120-9474-e862d3103e57" "PDF" %}})
 
 \*\*Neighborhood Information Systems:    
-\*\*[Philadelphia](http://phennd.org/update/neighborhood-information-system/)    
-[Milwaulkee](https://www.visitmilwaukee.org/neighborhoods/)    
-[Los Angeles](http://maps.latimes.com/neighborhoods/neighborhood/list/)    
-[Baltimore](http://www.bniajfi.org)    
-[Providence](http://www.providenceplanning.org/)    
-[Oakland](https://www.oaklandca.gov/)
+\*\*{{% resource_link "7daf775d-ed9c-4d34-8ff2-43b8244012ff" "Philadelphia" %}}    
+{{% resource_link "3b0e0b59-c535-4d94-a0cc-ff218ee9b60c" "Milwaulkee" %}}    
+{{% resource_link "5f5efd11-b78f-4156-a754-cbb91e375e9c" "Los Angeles" %}}    
+{{% resource_link "6c103ef5-fcc9-49ec-b714-85a41be68172" "Baltimore" %}}    
+{{% resource_link "e5dbf8fe-1185-4235-a86d-0e9429e6e415" "Providence" %}}    
+{{% resource_link "1e40f642-1b87-4317-8124-054d998f5a25" "Oakland" %}}
 
 **Community Asset Mapping Projects:**    
-[The Borneo Project](http://borneoproject.org/)    
-[Connecticut Assets Network](http://www.manta.com/c/mmfmng6/connecticut-assets-network)    
-[Decatur Community Partnership](https://www.comminit.com/content/decatur-community-partnership)    
+{{% resource_link "949838b1-80fe-4416-9f4b-2d37c269c89f" "The Borneo Project" %}}    
+{{% resource_link "454fab8e-506c-44aa-9644-7a3e90893aaf" "Connecticut Assets Network" %}}    
+{{% resource_link "c657524a-e17c-42fb-a967-266116f18fa0" "Decatur Community Partnership" %}}    
 Montreal
